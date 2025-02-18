@@ -1,4 +1,4 @@
-# Rama S. M. Reddy Velagala - Portfolio
+# Rama Satyanarayana Murthy Reddy Velagala - Portfolio
 
 Welcome to my GitHub repository! This space showcases my projects, research work, and professional experiences that highlight my skills in software development, machine learning, data analysis, and full-stack engineering.
 
