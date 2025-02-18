@@ -1,11 +1,11 @@
-# Rama Satyanarayana Murthy Reddy Velagala - Portfolio
+# Rama Satyanarayana Murthy Reddy Velagala
 
 Welcome to my GitHub repository! This space showcases my projects, research work, and professional experiences that highlight my skills in software development, machine learning, data analysis, and full-stack engineering.
 
 ## 🌟 About Me
 I am currently pursuing a Master’s degree in Computer and Information Sciences at the University of Florida, with a GPA of 3.55/4. I have a background in software engineering and a strong passion for data-driven problem-solving and building innovative applications.
 
-**Website:** [ramasatyanarayanamurthyreddyvelagala.com](https://ramasatyanarayanamurthyreddyvelagala.com)  
+**Portfolio:** [ramasatyanarayanamurthyreddyvelagala.com](https://ramasatyanarayanamurthyreddyvelagala.com)  
 **LinkedIn:** [Rama S M Reddy Velagala](https://linkedin.com/in/ramasatyanarayanamurthyreddyvelagala)  
 **Email:** [r.velagala@ufl.edu](mailto:r.velagala@ufl.edu)
 
