@@ -1,80 +1,102 @@
-# Rama Satyanarayana Murthy Reddy Velagala
+# =====================================================================================
+#  🚀 README.md in a "Coding with # Comments" Style (with Symbols) 🚀
+# =====================================================================================
 
-Welcome to my GitHub repository! This space showcases my projects, research work, and professional experiences that highlight my skills in software development, machine learning, data analysis, and full-stack engineering.
+# =====================================================================================
+#  🚀 TITLE & CONTACT
+# =====================================================================================
+#  🔰 Name:       Rama Satyanarayana Murthy Reddy Velagala
+#  📧 Contact:    reddyrama514@gmail.com
+#  🏠 Location:   Gainesville, FL (Open to Relocation)
+#  💻 GitHub:     https://github.com/vrsmreddy
+#  🎉 Note:       This README is a snapshot of my resume & ongoing work.
 
-## 🌟 About Me
-I am currently pursuing a Master’s degree in Computer and Information Sciences at the University of Florida, with a GPA of 3.55/4. I have a background in software engineering and a strong passion for data-driven problem-solving and building innovative applications.
+# =====================================================================================
+#  🌱 ABOUT ME
+# =====================================================================================
+#  I am a Master’s student in Computer and Information Sciences at the University of
+#  Florida, aiming to graduate in May 2025. My areas of focus include machine learning
+#  (ML), deep learning (DL), and large language models (LLMs). I’m passionate about
+#  building cutting-edge solutions and solving real-world challenges with research and
+#  scalable architectures.
 
-**Portfolio:** [ramasatyanarayanamurthyreddyvelagala.com](https://ramasatyanarayanamurthyreddyvelagala.com)  
-**LinkedIn:** [Rama S M Reddy Velagala](https://linkedin.com/in/ramasatyanarayanamurthyreddyvelagala)  
-**Email:** [r.velagala@ufl.edu](mailto:r.velagala@ufl.edu)
+# =====================================================================================
+#  🎓 EDUCATION
+# =====================================================================================
+#  1. University of Florida
+#     - 🎓 Degree: Master’s in Computer and Information Sciences
+#     - ⏰ Duration: August 2023 – May 2025 (Expected)
+#     - 📍 Location: Gainesville, FL
+#
+#  2. SRM Institute of Science and Technology
+#     - 🎓 Degree: Bachelor’s in Computer Science and Engineering
+#     - ⏰ Duration: August 2019 – July 2023
+#     - 📍 Location: Chennai, India
 
----
+# =====================================================================================
+#  💼 WORK EXPERIENCE
+# =====================================================================================
+#  1. Research Assistant
+#     - 🏫 Institution: SRM Institute of Science and Technology
+#     - ⏰ Duration: August 2022 – July 2023 | Chennai, India
+#     - 🔑 Key Achievements:
+#       * Created an end-to-end pipeline using scikit-learn and MediaPipe for real-time
+#         hand tracking and ASL gesture recognition, reaching 95% accuracy on a 2,626-sample dataset.
+#       * Implemented ML algorithms (Random Forest, SVM, KNN), selecting the best for
+#         continuous data streams.
+#       * Deployed an OpenCV-based GUI supporting near-real-time inference (20–30 FPS).
+#
+#  2. Software Engineer Intern – Machine Learning
+#     - 🏢 Organization: Smart Knower
+#     - ⏰ Duration: January 2022 – March 2022 | Chennai, India
+#     - 🔑 Key Achievements:
+#       * Reduced DDR5 DIMM inventory processing time by 97.2% (180s → 5s) using
+#         a deep learning-based OCR system.
+#       * Achieved a remarkably low Word Error Rate (WER) of 0.1 by fine-tuning PaddleOCR,
+#         outperforming closed-source OCR solutions.
 
-## 🛠️ Technical Skills
-- **Languages:** Java, Python, C/C++, SQL, JavaScript, HTML/CSS
-- **Machine Learning:** Scikit-learn, Random Forest, SVM, KNN
-- **Web Development:** ReactJS, XAMPP, Java, PHP
-- **Developer Tools:** Google Colab, Git, VSCode, Eclipse
-- **Database Management:** Oracle Database, SQL
-- **Others:** Data Analysis, Distributed Systems, Natural Language Processing (NLP)
+# =====================================================================================
+#  🏗️ PROJECTS
+# =====================================================================================
+#  1. LLM-Augmented ResNet50 Classification
+#     - 🛠️ Tech Stack: PyTorch, Hugging Face, QLoRA, ImageNet, Ollama, RAG
+#     - 🌟 Highlights:
+#       * Fine-tuned 25.6M+ parameters for ResNet50, achieving 99.90% confidence on 10 classes.
+#       * Applied parameter-efficient fine-tuning (PeFT) with QLoRA to optimize resources.
+#       * Integrated an LLM for contextual/human-like output, maintaining 90%+ Pearson correlation.
+#
+#  2. Streamline Segmentation from Earth Imagery
+#     - 🛠️ Tech Stack: TensorFlow Keras, U-Net, Google Cloud Platform (GCP)
+#     - 🌟 Highlights:
+#       * Employed a U-Net with multi-channel input (RGB, NIR, DEM, LiDAR intensity, slope),
+#         scoring 94.6% accuracy on 15,500+ samples.
+#       * Introduced dropout and custom callbacks to adjust the learning rate upon metric plateaus,
+#         ensuring stable and robust training.
 
-## 🏆 Awards & Achievements
-- $4,500 Scholarship for Master’s Program at the University of Florida
-- 92nd Rank in SRMJEE, earning a four-year scholarship worth $30,000 at SRM Institute of Science and Technology
-- Best Student Researcher, SRM, 2024
+# =====================================================================================
+#  🛠️ TECHNICAL SKILLS
+# =====================================================================================
+#  - 💻 Languages: Python, C++, C, Java, SQL, MATLAB
+#  - 🔮 ML/DL Frameworks: PyTorch, TensorFlow, JAX, scikit-learn, OpenCV
+#  - 🗄️ Databases & Tools: MySQL, Hadoop, Git, Linux, Power BI, Tableau, Excel
+#  - ☁️ Cloud & DevOps: GCP, AWS, Azure (Kubeflow), Docker, FastAPI
+#  - 📦 Additional: Flask, NumPy, Pandas, Jupyter, QT
 
----
+# =====================================================================================
+#  🏆 ACHIEVEMENTS & CERTIFICATIONS
+# =====================================================================================
+#  - 🏆 Ranked 92nd among ~140,000 candidates (India & Middle East) in SRMJEE
+#  - 📜 Coursera Certified Machine Learning (Stanford Online, 2021)
+#  - 📜 Oracle Cloud Infrastructure Foundations 2021 Certified Associate (Oracle, 2022)
+#  - 📜 AWS APAC - Solutions Architecture Job Simulation (Forage, 2025)
+#  - 📜 AWS Cloud Practitioner Essentials (AWS, 2025)
+#  - 📜 Career Essentials in System Administration (Microsoft & LinkedIn, 2025)
+#  - 🏅 HackerRank – Software Engineer (2025)
 
-## 📚 Education
-**University of Florida**  
-_Masters in Computer and Information Sciences_  
-Gainesville, FL | Aug 2023 – Present | GPA: 3.55/4  
-- Relevant Coursework: Advanced Data Structures, Computer Networks, Database Management Systems, NLP, and more.
-
----
-
-## 💻 Work Experience
-
-### Research Assistant  
-**SRM Institute of Science and Technology** | Aug 2020 – June 2023  
-- Developed a machine learning-based Sign Language Training Tool, achieving high accuracy using Random Forest, SVM, and KNN.
-- Published research findings in AIP Conference Proceedings: Sign Language Training Tool Using Machine Learning.
-
-### Web Developer Intern  
-**SmartKnower** | Aug 2019 – Dec 2019  
-- Designed scalable healthcare management systems, enhancing hospital operations.
-- Integrated secure admin functionalities and optimized system performance.
-
----
-
-## 🚀 Projects
-
-### United States Immigration Trends
-- **Tech Stack:** HTML, CSS, JavaScript, ReactJS, Oracle Database
-- Developed an analytical tool for immigration trend analysis, focusing on data visualization and understanding the impact of visa approvals.
-
-### Medical Operations Management Software
-- **Tech Stack:** XAMPP, Java, PHP, SQL
-- Designed intuitive user interfaces for patients, doctors, and admins, streamlining hospital operations and improving user experience.
-
----
-
-## 📈 Leadership & Extracurricular Activities
-
-### Marketing Ambassador (Part-Time)  
-**Compass USA** | May 2024 – Present  
-- Promoted campus dining and managed social media content to engage the student community.
-
-### Parking Ambassador (Part-Time)  
-**University of Florida** | Sept 2023 – Present  
-- Provided guidance to visitors and students on parking regulations, enhancing overall traffic management on campus.
-
----
-
-## 🔗 Relevant Links
-- **Research Publication:** [Sign Language Training Tool Using Machine Learning](https://pubs.aip.org/aip/acp/article/3075/1/020125/3305071/Sign-language-training-tool-using-machine-learning)
-
-Feel free to explore the projects and code repositories shared here. Connect with me for collaborations or to discuss opportunities in software engineering, machine learning, and data science!
-
----
+# =====================================================================================
+#  🤝 LET’S CONNECT
+# =====================================================================================
+#  - 📧 Email: reddyrama514@gmail.com
+#  - 💻 GitHub: https://github.com/vrsmreddy
+#  - 🏠 Location: Gainesville, FL (Willing to Relocate)
+#  - 🚀 Feel free to check out my repositories or reach out for collaborations!
