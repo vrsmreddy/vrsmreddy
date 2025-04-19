@@ -1,73 +1,82 @@
+
 # ⚡️ Rama Satyanarayana Murthy Reddy Velagala
 
-**(352) 933-6955 | [reddyrama514@gmail.com](mailto:reddyrama514@gmail.com) | [GitHub](https://github.com/vrsmreddy) | Gainesville, FL (Willing to Relocate)**
+**📞 (352) 933-6955 | 📧 [reddyrama514@gmail.com](mailto:reddyrama514@gmail.com) | 🌐 [GitHub](https://github.com/vrsmreddy) | 📍 Gainesville, FL (Willing to Relocate)**
 
-Welcome to my GitHub profile! This README highlights my background in **machine learning**, **computer vision**, and **full-stack engineering**, along with my notable projects and professional experience.
+Welcome! I’m a passionate **Software Engineer** and **Machine Learning enthusiast**, currently pursuing my Master’s in Computer & Information Science at the **University of Florida**. My work spans **full-stack development**, **DevOps**, and **ML-powered solutions**—with experience building scalable platforms, deploying real-time systems, and redacting sensitive information using NLP.
 
 ---
 
 ## 🎓 Education
 
 **University of Florida**  
-*Master’s in Computer and Information Sciences*  
-*August 2023 – Expected May 2025* | Gainesville, Florida  
+*M.S. in Computer and Information Science*  
+📍 Gainesville, FL | Aug 2023 – May 2025 (GPA: 3.77 / 4.00)
 
 **SRM Institute of Science and Technology**  
-*Bachelor’s in Computer Science and Engineering*  
-*August 2019 – July 2023* | Chennai, India  
+*B.Tech in Computer Science and Engineering*  
+📍 Chennai, India | Aug 2019 – July 2023
 
 ---
 
-## 💼 Work Experience
+## 💼 Professional Experience
+
+### 💻 Full Stack Developer  
+**University of Florida** | Jan 2024 – Present  
+- Engineered zoning compliance review tool, streamlining city planning workflows and reducing manual bottlenecks.  
+- Integrated Spring Boot + PostgreSQL APIs with React for dynamic, real-time regulatory validation.  
+- Improved frontend responsiveness by 40% using React, Redux, and CSS3.  
+- Deployed Kafka pipelines for scalable email alerts—20% improvement in delivery throughput.
 
 ### 🔬 Research Assistant  
-**SRM Institute of Science and Technology** | Aug 2022 – July 2023 | Chennai, India  
-- Built an end-to-end **ML classification pipeline** integrating **scikit-learn** and **MediaPipe** for real-time hand tracking and gesture recognition, achieving **95% accuracy** on a 2,626-sample ASL dataset.  
-- Benchmarked **Random Forest, SVM, and KNN** to identify the optimal model (Random Forest) and automated data preprocessing for continuous data streams.  
-- Developed a user-friendly **OpenCV GUI** to enable near–real-time inference (20–30 FPS).
+**SRM Institute of Science and Technology** | Aug 2022 – July 2023  
+- Developed an ASL gesture recognition system using **MediaPipe + scikit-learn**, reaching 98% accuracy on 10k+ samples.  
+- Deployed Random Forest model on AWS EC2; enabled 20–30 FPS inference using OpenCV GUI.  
+- Built internal visualization tools in **Flask**; streamlined CI/CD with **Docker + Jenkins**.
 
-### 💻 Software Engineer Intern – Machine Learning  
-**Smart Knower** | Jan 2022 – Mar 2022 | Chennai, India  
-- Accelerated **DDR5 DIMM inventory** processing by **97.2%** (from 180→5 seconds per unit) using a **deep learning–based OCR** system.  
-- Achieved a remarkably low **Word Error Rate (WER) of 0.1** by fine-tuning **PaddleOCR**, surpassing the accuracy of closed-source OCR solutions.
+### 👨‍💻 Software Developer Intern  
+**Smart Knower** | Jan 2022 – Mar 2022  
+- Created RESTful APIs in **Node.js/Express** with hybrid DB storage in **MySQL and MongoDB**.  
+- Developed UI concepts in **Figma**, tested endpoints using **Postman**, and tracked issues via **JIRA**.
 
 ---
 
 ## 🚀 Projects
 
-### LLM-Augmented ResNet50 Classification
-- **Stack:** PyTorch, Hugging Face, QLoRA, ImageNet, Ollama, RAG  
-- Developed an **LLM-augmented ResNet50** classification system, tuning over **25.6M+ parameters** to reach **99.90% confidence** across 10 image classes.  
-- Employed **parameter-efficient fine-tuning (PeFT)** with QLoRA for optimal performance, ensuring **90%+ Pearson correlation** in user evaluations.  
+### 🔒 Sensitive Information Redactor  
+*Python, SpaCy, FastAPI, SQLite, GitHub Actions*  
+[🔗 Project Repo](https://github.com/vrsmreddy/cis6930fa24-project1)  
+- Redacted PII from 25,000+ documents using SpaCy’s NLP pipeline and FastAPI for scalable service.  
+- Built CI/CD workflow using GitHub Actions; ensured high test coverage with Pytest.
 
-### Streamline Segmentation from Earth Imagery
-- **Stack:** TensorFlow Keras, U-Net, Google Cloud Platform (GCP)  
-- Deployed a **U-Net** with **multi-channel inputs** (RGB, NIR, DEM, LiDAR intensity, slope), achieving **94.6% accuracy** on 15,500+ samples.  
-- Implemented **dropout (20%)** and callbacks to reduce learning rate upon metric plateaus, ensuring stable and robust model performance.
+### 🧠 Gesture Recognition via ML  
+*Published in AIP Conference Proceedings – 2023*  
+[📄 Paper Link](https://pubs.aip.org/aip/acp/article/3075/1/020125/3305071)  
+- Achieved 98% accuracy on real-time ASL dataset using HPC strategies.
 
 ---
 
 ## 🛠️ Technical Skills
-- **Languages:** Python, C++, C, SQL, Java, MATLAB  
-- **Frameworks & Libraries:** PyTorch, TensorFlow, JAX, OpenCV, scikit-learn, NumPy, Pandas, Flask, FastAPI  
-- **Databases & Tools:** MySQL, Hadoop, Git, Linux, GCP, AWS, Azure (Kubeflow), Jupyter, QT, Power BI, Tableau, Excel  
-- **Additional:** Parameter-efficient Fine-Tuning (PeFT), QLoRA, OCR, Computer Vision
+
+**Languages:** Java, Python, C++, C, JavaScript, TypeScript, Go, Shell  
+**Frontend:** React.js, Angular, Redux, HTML5, CSS3, Bootstrap, Figma  
+**Backend:** Node.js, Spring Boot, Django, Flask, .NET, Express.js, socket.io  
+**Databases:** PostgreSQL, MySQL, MongoDB, SQLite, SQL Server  
+**Cloud & DevOps:** AWS (EC2, Lambda, RDS, SNS, ECS), GCP, Azure, Docker, Jenkins, Kubernetes, Terraform  
+**Tools:** Git, GitHub, Bitbucket, JIRA, Postman, Cypress, Pandas, Matplotlib, Seaborn  
 
 ---
 
 ## 📜 Certifications
-- **Coursera Certified Machine Learning** (Stanford Online, Sep 2021)  
-- **Oracle Cloud Infrastructure Foundations 2021 Certified Associate** (Oracle, Jan 2022)  
-- **Software Engineer** (HackerRank, Feb 2025)  
-- **AWS APAC – Solutions Architecture Job Simulation** (Forage, Feb 2025)  
-- **AWS Cloud Practitioner Essentials** (AWS, Feb 2025)  
-- **Career Essentials in System Administration** (Microsoft & LinkedIn, Mar 2025)
+- **AWS Cloud Practitioner Essentials** (Feb 2025)  
+- **Software Engineer Certification** – HackerRank (Feb 2025)  
+- **OCI Foundations 2021 Certified Associate** – Oracle  
+- **Coursera Machine Learning** – Stanford Online  
 
 ---
 
 ## 🏆 Achievements
-- Secured **92nd rank** among ~140,000 candidates in SRMJEE across India and the Middle East (Dubai, Kuwait, Qatar, Bahrain, Oman).  
+- 🎓 Academic Achievement Award – University of Florida (3 Semesters)  
+- 🥇 Ranked 92nd out of 170,000+ in SRMJEEE – Full 4-Year Tuition Scholarship ($30K)
 
----
 
-Feel free to explore my repositories and reach out for **collaborations** or **opportunities** in ML, deep learning, or software engineering!
