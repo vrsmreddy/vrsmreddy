@@ -1,75 +1,60 @@
-# ⚡️ Rama Satyanarayana Murthy Reddy Velagala  
+<div align="center">
+<h1 align="center">Hey <img width="35" src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif">, I'm Rama!</h1>
+<h4 align="center">Software Developer @ University of Florida • Building scalable full-stack apps that make research and data smarter 🚀</h4>
+</div>
 
-**📞 (352) 933-6955 | 📧 [r.velagala@ufl.edu](mailto:r.velagala@ufl.edu) | 🌐 [Portfolio](https://ramasatyanarayanamurthyreddyvelagala.com) | [GitHub](https://github.com/vrsmreddy) | [LinkedIn](https://www.linkedin.com/in/rama-velagala/) | 📍 Gainesville, FL (Willing to Relocate)**  
-
-Hey there 👋 I’m Rama, a **recent Master’s graduate in Computer & Information Science (UF, 2025)** with a passion for **software engineering, cloud systems, and AI/ML**. I enjoy solving problems by building **scalable applications, intelligent pipelines, and automation-driven solutions** that create real impact.  
-
----
-
-## 🎓 Education  
-
-**University of Florida**  
-*M.S. in Computer & Information Science* | Aug 2023 – May 2025  
-📍 Gainesville, FL | GPA: **3.77/4.00**  
-
-**SRM Institute of Science and Technology**  
-*B.Tech in Computer Science & Engineering* | Aug 2019 – Jul 2023  
-📍 Chennai, India  
+<div align="center">
+  <a href="https://ramasatyanarayanamurthyreddyvelagala.com">
+  <img src="https://raw.githubusercontent.com/Platane/snk/output/github-contribution-grid-snake.svg" alt="snake animation" /></a>
+</div>
 
 ---
 
-## 💼 Experience  
+<h3>💻 &nbsp;About Me</h3>
 
-### 💻 Software Developer | University of Florida | Jun 2025 – Present  
-- Achieved **99% uptime** with AWS (EC2, RDS, ECS Fargate, Lambda) scaling, cutting downtime incidents by **60%**.  
-- Boosted **70% of underperforming sites** with AI-powered data pipelines + Tableau dashboards.  
-- Secured datasets with PostgreSQL + Auth0, reducing unauthorized access attempts by **90%**.  
-- Built an AI chatbot (React + Node.js + Dialogflow) improving survey response accuracy by **30%**.  
-
-### 👨‍💻 Software Engineer | SRM Institute of Science and Technology | Aug 2022 – Jul 2023  
-- Strengthened security for **500+ users** with ASP.NET role-based control, reducing unauthorized logins by **35%**.  
-- Cut collaboration latency **30s → 5s** for **1K+ sessions** using SignalR + Blazor.  
-- Migrated DBs to .NET Core + Dockerized MySQL on Azure → **35% faster queries**.  
-- Designed Kafka pipeline processing **10K+ weekly queries**, increasing throughput by **30%**.  
-
-### 🛠️ Software Engineer Intern | SmartKnower | Jan 2022 – Jun 2022  
-- Optimized Spring Boot APIs → **20% faster response times**.  
-- Reduced redundant DB queries by **15%** with custom caching structures.  
-- Accelerated onboarding by **30%** with cross-team technical docs.  
+- 👨‍💻 &nbsp; Software Developer at the **University of Florida**, building web platforms used across 67+ UF/IFAS research and outreach sites.  
+- 🌍 &nbsp; Experienced in **React, Angular, Node.js, and AWS**, integrating data pipelines and real-time dashboards for operational insights.  
+- ⚙️ &nbsp; Focused on designing **scalable systems**, optimizing **cloud performance**, and automating workflows that boost efficiency.  
+- 💡 &nbsp; Previously worked at **JPMorgan Chase** and **T-Mobile**, engineering backend systems with .NET, Spring Boot, and Go.  
+- 📈 &nbsp; Passionate about **AI, cloud architecture, and sustainable tech** — turning data into smarter, cleaner solutions.  
+- 🧩 &nbsp; Lifelong learner, blending creativity and logic to build things that actually *make a difference*.  
 
 ---
 
-## 🚀 Projects  
+<h3>🛠 &nbsp;Tech Stack</h3>
 
-- **📦 Gator Repo** – Angular + Go platform for **250+ students**, boosted collaboration across 5 departments by **40%**.  
-- **🗣️ Enunciate Ledger** – NLP interface helping **10K+ visually impaired users** issue multilingual voice commands.  
-- **👮 FBI Most Wanted CLI** – REST API pipeline for law enforcement updates, improving awareness by **25%**.  
+- 🌐 &nbsp;
+  ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react)
+  ![Angular](https://img.shields.io/badge/-Angular-333333?style=flat&logo=angular)
+  ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js)
+  ![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python)
+  ![Go](https://img.shields.io/badge/-Go-333333?style=flat&logo=go)
+  ![C#](https://img.shields.io/badge/-C%23-333333?style=flat&logo=c-sharp)
+  ![Django](https://img.shields.io/badge/-Django-333333?style=flat&logo=django)
+  ![Flask](https://img.shields.io/badge/-Flask-333333?style=flat&logo=flask)
+  ![SQL](https://img.shields.io/badge/-PostgreSQL-333333?style=flat&logo=postgresql)
+  ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb)
 
----
+- ☁️ &nbsp;
+  ![AWS](https://img.shields.io/badge/-AWS-333333?style=flat&logo=amazon-aws)
+  ![Azure](https://img.shields.io/badge/-Azure-333333?style=flat&logo=microsoft-azure)
+  ![Docker](https://img.shields.io/badge/-Docker-333333?style=flat&logo=docker)
+  ![Kubernetes](https://img.shields.io/badge/-Kubernetes-333333?style=flat&logo=kubernetes)
+  ![Jenkins](https://img.shields.io/badge/-Jenkins-333333?style=flat&logo=jenkins)
 
-## 🛠️ Skills  
-
-**Languages:** Java, Python, C++, Go, JavaScript, TypeScript, SQL  
-**Frontend:** React.js, Angular, Redux, HTML5, CSS3, Bootstrap  
-**Backend:** Node.js, Spring Boot, Django, Flask, Express.js  
-**Databases:** PostgreSQL, MySQL, MongoDB, SQLite  
-**Cloud & DevOps:** AWS (EC2, RDS, Lambda, ECS Fargate, SNS), Azure, GCP, Docker, Kubernetes, Terraform, Jenkins (CI/CD)  
-**ML/Data:** Pandas, Scikit-learn, Matplotlib, Seaborn, Tableau  
-
----
-
-## 📜 Certifications  
-
-- **AWS Certified Developer – Associate** (2025–2028)  
-- **Java Developer – HackerRank** (2025–2028)  
-
----
-
-## 🏆 Achievements  
-
-- 🎓 **Academic Achievement Award** – University of Florida (3 Semesters)  
-- 🥇 Ranked **92 / 170,000+** in SRMJEEE – Full 4-Year Tuition Scholarship ($30K)  
+- ⚙️ &nbsp;
+  ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git)
+  ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github)
+  ![VSCode](https://img.shields.io/badge/-VSCode-333333?style=flat&logo=visual-studio-code)
+  ![Postman](https://img.shields.io/badge/-Postman-333333?style=flat&logo=postman)
 
 ---
 
-✨ I’m actively looking for **Software Engineer & Data/Cloud roles (2025)** → Let’s connect and build something impactful together!  
+<h3>🤝🏻 &nbsp;Connect with Me</h3>
+
+<p align="center">
+<a href="https://ramasatyanarayanamurthyreddyvelagala.com"><img src="https://img.shields.io/badge/-Portfolio-454B1B?style=flat-square&logo=Google-Chrome&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/rama-velagala/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:r.velagala@ufl.edu"><img src="https://img.shields.io/badge/-r.velagala@ufl.edu-D14836?style=flat-square&logo=Gmail&logoColor=white"/></a>
+<a href="https://github.com/vrsmreddy"><img src="https://img.shields.io/badge/-GitHub-333333?style=flat-square&logo=github&logoColor=white"/></a>
+</p>
