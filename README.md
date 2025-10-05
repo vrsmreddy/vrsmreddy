@@ -15,7 +15,6 @@
 - 👨‍💻 &nbsp; Software Developer at the **University of Florida**, building web platforms used across 67+ UF/IFAS research and outreach sites.  
 - 🌍 &nbsp; Experienced in **React, Angular, Node.js, and AWS**, integrating data pipelines and real-time dashboards for operational insights.  
 - ⚙️ &nbsp; Focused on designing **scalable systems**, optimizing **cloud performance**, and automating workflows that boost efficiency.  
-- 💡 &nbsp; Previously worked at **JPMorgan Chase** and **T-Mobile**, engineering backend systems with .NET, Spring Boot, and Go.  
 - 📈 &nbsp; Passionate about **AI, cloud architecture, and sustainable tech** — turning data into smarter, cleaner solutions.  
 - 🧩 &nbsp; Lifelong learner, blending creativity and logic to build things that actually *make a difference*.  
 
